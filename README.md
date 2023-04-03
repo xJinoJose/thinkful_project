@@ -1,3 +1,7 @@
 # thinkful_project
-A place to store projects
-This is for my course projects
+A place to store my projects
+
+## About me
+I'm a student learning web coding
+
+## Thanks
